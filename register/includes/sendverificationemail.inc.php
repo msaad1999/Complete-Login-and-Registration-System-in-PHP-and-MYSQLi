@@ -14,7 +14,7 @@ if (isset($_POST['signupsubmit'])) {
 
     $selector = bin2hex(random_bytes(8));
     $token = random_bytes(32);
-    $url = "localhost/loginsystem/verify/includes/verify.inc.php?selector=" . $selector . "&validator=" . bin2hex($token);
+    $url = "http://citizentech.thddns.net:6460/PHP-Login-System/verify/includes/verify.inc.php?selector=" . $selector . "&validator=" . bin2hex($token);
     $expires = 'DATE_ADD(NOW(), INTERVAL 1 HOUR)';
 
 
