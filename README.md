@@ -1,4 +1,4 @@
-## OrigiNal By msaad1999
+> **`Project Abandoned`**. Original by msaad1999 ( brought to develop further )
 <p align="center">
   <img src="assets/images/README_cover.png" width="350" align="center"/>
 </p><br>
