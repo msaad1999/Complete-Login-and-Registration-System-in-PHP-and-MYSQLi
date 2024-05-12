@@ -63,13 +63,13 @@ check_logged_out();
 
                 <button class="btn btn-lg btn-primary btn-block" type="submit" value="loginsubmit" name="loginsubmit">Login</button>
 
-                <p class="mt-3 text-muted text-center"><a href="../reset-password/">forgot password?</a></p>
+                <p class="mt-3 text-muted text-center"><a href="../reset-password/">Forgot password?</a></p>
 
                 <p class="mt-4 mb-3 text-muted text-center">
-                    <a href="https://github.com/msaad1999/PHP-Login-System" target="_blank">
+                    <a href="https://github.com/ThemeHackers" target="_blank">
                         Login System
                     </a> | 
-                    <a href="https://github.com/msaad1999/PHP-Login-System/blob/master/LICENSE" target="_blank">
+                    <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt" target="_blank">
                         MIT License
                     </a>
                 </p>
