@@ -31,8 +31,8 @@ include '../assets/layouts/header.php';
                 </sub>
             </p>
             <p>
-                <a href="https://github.com/msaad1999" class="btn btn-primary my-2" target="_blank">See Creator</a>
-                <a href="https://github.com/msaad1999/PHP-Login-System" class="btn btn-secondary my-2" target="_blank">See Repository</a>
+                <a href="https://github.com/ThemeHackers" class="btn btn-primary my-2" target="_blank">See Creator</a>
+                <a href="https://github.com/ThemeHackers/PHP-Login-System" class="btn btn-secondary my-2" target="_blank">See Repository</a>
             </p>
         </div>
     </section>
@@ -48,13 +48,14 @@ include '../assets/layouts/header.php';
             <div class="row">
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src='../assets/images/repo_gitklik.png' alt="Card image cap">
+                        <img class="card-img-top" src='../assets/images/rpi-picoW.jpg' alt="Card image cap">
                         <div class="card-body">
-                            <p class="card-text">Version Control application in Laravel using Git for core operationality.</p>
+                            <p class="card-text">The web server is simulated on the Raspberry Pi Pico W. You need a microcontroller before you can use it.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <a href="https://github.com/msaad1999/GitKLiK" class="btn btn-sm btn-outline-secondary" target="_blank">View</a>
-                                    <a href="https://github.com/msaad1999/GitKLiK/archive/master.zip" class="btn btn-sm btn-outline-secondary" target="_blank">Download</a>
+                                    <a href="https://github.com/ThemeHackers/Raspberrypi_pico_w" class="btn btn-sm btn-outline-secondary" target="_blank">View</a>
+                                    <a href="https://github.com/ThemeHackers/Raspberrypi_pico_w/archive/refs/heads/main.zip" class="btn btn-sm btn-outline-secondary" target="_blank">Download</a>
+                                    <a href="https://www.raspberrypi.com/products/raspberry-pi-pico/" class="btn btn-sm btn-outline-secondary" target="_blank">Buy</a>
                                 </div>
                                 <small class="text-muted">[under development]</small>
                             </div>
@@ -63,13 +64,13 @@ include '../assets/layouts/header.php';
                 </div>
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
-                        <img class="card-img-top" src='../assets/images/repo_klik.png' alt="Card image cap">
+                        <img class="card-img-top" src='../assets/images/which-xz.png' alt="Card image cap">
                         <div class="card-body">
-                            <p class="card-text">PHP social media website with additional blogs and forums functionality.</p>
+                            <p class="card-text">The recently discovered xz vulnerability detection script is the latest from cve.org</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <a href="https://github.com/msaad1999/KLiK-SocialMediaWebsite" class="btn btn-sm btn-outline-secondary" target="_blank">View</a>
-                                    <a href="https://github.com/msaad1999/KLiK-SocialMediaWebsite/archive/master.zip" class="btn btn-sm btn-outline-secondary" target="_blank">Download</a>
+                                    <a href="https://github.com/ThemeHackers/CVE-2024-3094-info" class="btn btn-sm btn-outline-secondary" target="_blank">View</a>
+                                    <a href="https://github.com/ThemeHackers/CVE-2024-3094-info/archive/refs/heads/main.zip" class="btn btn-sm btn-outline-secondary" target="_blank">Download</a>
                                 </div>
                                 <small class="text-muted">[development concluded]</small>
                             </div>
@@ -83,8 +84,8 @@ include '../assets/layouts/header.php';
                             <p class="card-text">Embeddable and secure PHP authentication system.</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <a href="https://github.com/msaad1999/PHP-Login-System" class="btn btn-sm btn-outline-secondary" target="_blank">View</a>
-                                    <a href="https://github.com/msaad1999/PHP-Login-System/archive/master.zip" class="btn btn-sm btn-outline-secondary" target="_blank">Download</a>
+                                    <a href="https://github.com/ThemeHackers/PHP-Login-System" class="btn btn-sm btn-outline-secondary" target="_blank">View</a>
+                                    <a href="https://github.com/ThemeHackers/PHP-Login-System/archive/refs/heads/master.zip" class="btn btn-sm btn-outline-secondary" target="_blank">Download</a>
                                 </div>
                                 <small class="text-muted">[development concluded]</small>
                             </div>
